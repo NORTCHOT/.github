@@ -1,3 +1,4 @@
+[![committers.top badge](https://user-badge.committers.top/belarus/NORTCHOT.svg)](https://user-badge.committers.top/belarus/NORTCHOT)
 ## Hi there 👋
 
 I'm **NORTCHOT** — semi-geek, vibe coder, certified Windows hater, and just a dumb kid having fun 😝🤟
